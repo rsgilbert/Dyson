@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e18891-b137-4ef3-b36d-1fe7258b0b2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dyson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dyson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserLG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserLG.java" afterDir="false" />
     </list>
@@ -86,18 +84,30 @@
       <option name="presentableId" value="Default" />
       <updated>1582793187397</updated>
       <workItem from="1582793193133" duration="3476000" />
-      <workItem from="1583490123169" duration="762000" />
+      <workItem from="1583490123169" duration="1270000" />
     </task>
+    <task id="LOCAL-00001" summary="Added comments for UserLG">
+      <created>1583490898874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583490898874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added comments for UserLG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments for UserLG" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583490196488">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583490897945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583490196488" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583490897945" />
     <state x="122" y="56" key="DiffContextDialog" timestamp="1583490194243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

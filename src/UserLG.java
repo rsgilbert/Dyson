@@ -4,6 +4,7 @@
  * In this file Dyson learns how to use the Scanner class to
  * request multiple inputs from the command line one at a time
  * She uses the inputs to calculate and print their total
+ *
  */
 
 // We import the Scanner class from the util library
